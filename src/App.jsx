@@ -1,5 +1,5 @@
 // import Recipes from "./components/Recipes"
-import RecipesCard from "./components/RecipesCard"
+import Recipes from "./components/Recipes"
 // import NavBar from "./components/NavBar"
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       {/* <NavBar /> */}
-      <RecipesCard />      
+      <Recipes />      
     </>
   )
 }
